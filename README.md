@@ -1,2 +1,3 @@
 # Capstone_Project
-Project used for demonstrating team collaboration.
+Project used for learning github
+
